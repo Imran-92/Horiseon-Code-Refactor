@@ -1,18 +1,18 @@
 # Horiseon-Code-Refactor
 Adding Accessibility feature to client website for search engine optimization. 
 
-#Description
+##Description
 
 
-#Installation
+##Installation
 
 
-#Usage
+##Usage
 
 
-#Credits
+##Credits
 
 
-#License
+##License
 
 
